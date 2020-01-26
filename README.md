@@ -2,7 +2,7 @@
 
 This dataset is been taken from Kaggle and contains 81 Features.
 
-In this is case study, we will use Linear Regresssion to predict house prices, based on the various different independent variables.
+In this is case study, we will use Linear Regression to predict house prices, based on the various different independent variables.
 
 Here we start with cleaning the data. Firstly, it shows large null values in various different features, but as we read the description file, we come to know that these are actually non-null values.
 Thus, we treat these values and replace them accordingly.
